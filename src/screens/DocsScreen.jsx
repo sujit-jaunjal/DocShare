@@ -4,7 +4,7 @@ import MyDocTile from "../components/DocTile/MyDocTile";
 import "./DocsScreen.css";
 import MainButton from "../components/Buttons/MainButton";
 import BottomNavBar from "../components/BottomNav/BottomNavigation";
-import { AiFillFileAdd } from "react-icons/ai/AiFillFileAdd";
+
 
 const appBarHeading = "My Documents";
 
